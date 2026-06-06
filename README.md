@@ -13,13 +13,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project Name](Link to project)**
-- 🌱 I’m currently learning **[Framework/Language, e.g., Next.js, Rust]**
-- 👯 I’m looking to collaborate on **[Open Source/Cool Ideas]**
-- 💬 Ask me about **[Your strong skills, e.g., React, Node.js, Python]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Add a quirky fact about yourself!]**
-
+- 🔭 I’m currently working on **EventBridge**
+- 🌱 I’m currently learning **Frontend/Backend/Full Stack Developer**
+- 👯 I’m looking to collaborate on **Open Source/Cool Ideas**
+- 📫 How to reach me: **ashininavodya76@gmail.com**
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -46,7 +43,7 @@
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YourLinkedIn]" target="blank">
+  <a href="https://linkedin.com/in/ashini-nawodya-241a9034a" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/[YourTwitter]" target="blank">
